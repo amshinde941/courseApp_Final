@@ -8,10 +8,10 @@ import SideBar from '@/components/sidebar'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const metadata = {
-  title: 'Discover course',
-  description: 'Find course by search or filters',
-}
+// export const metadata = {
+//   title: 'Discover course',
+//   description: 'Find course by search or filters',
+// }
 
 export default function RootLayout({
   children,
